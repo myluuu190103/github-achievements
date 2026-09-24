@@ -16,3 +16,8 @@ Ghi lại huy hiệu nào thực sự được trao sau khi làm từng thao tá
   Tự ghi email noreply của chính mình thì GitHub bỏ qua.
 - **Pull Shark** cần đủ 2 pull request được merge mới hiện bậc đầu tiên.
 - **Heart On Your Sleeve** hiện không còn được trao cho tài khoản mới.
+
+## Lần thử thứ hai cho Pair Extraordinaire
+
+Lần đầu thất bại vì `Co-authored-by` trỏ về chính tài khoản tạo commit.
+Lần này dùng email noreply của một tài khoản GitHub khác.
